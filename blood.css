@@ -1,0 +1,31 @@
+.navbar-brand{
+    font-size: large;
+    font-weight: bold;
+    color: red;
+}
+.container{
+    background-color: rgb(164, 77, 77);
+}
+.col-md-3{
+    font-size: small;
+}
+.btn-outline-success{
+    color: rgb(219, 13, 13);
+    border:solid rgb(37, 35, 35);
+}
+.col-4{
+    color: rgb(225, 99, 99);
+}
+.container-fluid{
+    color: red;
+    background-color: rgba(241, 8, 8, 0.1);
+}
+.accordion-button{
+    color:red ;
+    background-color: rgba(154, 37, 37, 0.3);
+    font-weight: bold;
+}
+.btn-primary{
+    color: brown;
+    background-color: rgb(223, 164, 164);
+}

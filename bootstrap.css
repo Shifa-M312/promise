@@ -1,0 +1,12 @@
+*{margin: 10px;
+    }
+.parent{
+    height: 150px;
+    width:100%;
+    background-color: rgb(183, 144, 220);
+}    
+.child{
+    border: 1px solid black;
+    height: 100%;
+    width:100%;
+}
